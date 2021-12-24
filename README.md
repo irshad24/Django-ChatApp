@@ -16,6 +16,8 @@ one to one chat with their friends.
 ```
 pip install django
 pip install django-rest-framework
+pip3 install --user django-crispy-forms
+pip3 install django-widget-tweaks
 ```
 
 ## How to use?
